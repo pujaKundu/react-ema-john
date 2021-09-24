@@ -11,3 +11,13 @@
     color: blue;
     font-weight: 400;
 }
+.purchase-btn{
+    background-color: rgb(241, 183, 74);
+    padding: 3px 20px;
+    border: none;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
